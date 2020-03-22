@@ -9,8 +9,13 @@ function App() {
   return (
     <main>
       {movies.map(movie => (
-        <Card>
-
+        <Card className="mr" key={`${movie.id}`}>
+          <Card.Image src={movies.image} alt={movie.title} />
+          <Card.Body>
+            <Card.Title>{movie.title}</Card.Title>
+            <Card.Text>{movie.desc}</Card.Text>
+            <Card.Button>{movie.ctaText}</Card.Button>
+          </Card.Body>
         </Card>
       ))}
     </main>
