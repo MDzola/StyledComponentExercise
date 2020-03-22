@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "title": "Joker",
+        "image": "",
+        "desc": "This is a description about the movie",
+        "alt": "Joker Movie",
+        "ctaText": "Watch",
+        "rating": "9.2"
+    },
+    {
+        "id":2,
+        "title": "The Prestige",
+        "image": "",
+        "desc": "This is a description about the movie",
+        "alt": "Prestige Movie",
+        "ctaText": "Watch",
+        "rating": "8.9"
+    },
+    {
+        "id":3,
+        "title": "Despicable Me",
+        "image": "",
+        "desc": "This is a description about the movie",
+        "alt": "Despicable Me Movie",
+        "ctaText": "Watch",
+        "rating": "10"
+    }
+]
