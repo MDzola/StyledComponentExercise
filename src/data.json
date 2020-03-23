@@ -2,7 +2,7 @@
     {
         "id":1,
         "title": "Joker",
-        "image": "",
+        "image": "../image/joker.jpg",
         "desc": "This is a description about the movie",
         "alt": "Joker Movie",
         "ctaText": "Watch",
@@ -11,7 +11,7 @@
     {
         "id":2,
         "title": "The Prestige",
-        "image": "",
+        "image": "../image/prestige.jpg",
         "desc": "This is a description about the movie",
         "alt": "Prestige Movie",
         "ctaText": "Watch",
@@ -20,7 +20,7 @@
     {
         "id":3,
         "title": "Despicable Me",
-        "image": "",
+        "image": "../image/despicable.jpg",
         "desc": "This is a description about the movie",
         "alt": "Despicable Me Movie",
         "ctaText": "Watch",
