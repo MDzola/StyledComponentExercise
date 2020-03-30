@@ -3,7 +3,7 @@ import classNames from 'classnames'
 
 import { Container, Body, Title, Text, Image, Button } from '../styles/Card'
 
-import "./card.styles.scss";
+
 
 function Card({classes, children, ...restProps}) {
     return(
